@@ -1,0 +1,11 @@
+2021-03-24 14:50:23,540 -main.py[20]-INFO -C:\Users\Administrator\PycharmProjects\Demo/report/report20210324145023.html 
+2021-03-24 14:50:24,418 -TestCouponAdd.py[28]-INFO -[['测试礼品E', '3', '30', '2021-03-16 00:00:00'], ['测试礼品G', '3', '20', '2021-03-16 00:00:00'], ['测试礼品H', '3', '40', '2021-03-16 00:00:00']] 
+2021-03-24 14:50:24,422 -main.py[16]-INFO -<unittest.suite.TestSuite tests=[<unittest.suite.TestSuite tests=[<unittest.suite.TestSuite tests=[<TestCouponAdd.TestCoupon testMethod=test01_0__E>, <TestCouponAdd.TestCoupon testMethod=test01_1__G>, <TestCouponAdd.TestCoupon testMethod=test01_2__H>]>]>]> 
+2021-03-27 20:54:59,488 -TestCouponAdd.py[28]-INFO -[['测试礼品E', '3', '30', '2021-03-16 00:00:00'], ['测试礼品G', '3', '20', '2021-03-16 00:00:00'], ['测试礼品H', '3', '40', '2021-03-16 00:00:00']] 
+2021-03-27 20:56:27,693 -TestCouponAdd.py[28]-INFO -[['测试礼品E', '3', '30', '2021-03-16 00:00:00'], ['测试礼品G', '3', '20', '2021-03-16 00:00:00'], ['测试礼品H', '3', '40', '2021-03-16 00:00:00']] 
+2021-03-27 20:59:47,325 -main.py[20]-INFO -E:\Demo/report/report20210327205947.html 
+2021-03-27 20:59:47,414 -main.py[16]-INFO -<unittest.suite.TestSuite tests=[<unittest.suite.TestSuite tests=[]>]> 
+2021-03-27 21:18:27,304 -TestCouponAdd.py[28]-INFO -[['测试礼品E', '3', '30', '2021-03-16 00:00:00'], ['测试礼品G', '3', '20', '2021-03-16 00:00:00'], ['测试礼品H', '3', '40', '2021-03-16 00:00:00']] 
+2021-03-27 21:18:58,691 -TestCouponAdd.py[28]-INFO -[['测试礼品E', '3', '30', '2021-03-16 00:00:00'], ['测试礼品G', '3', '20', '2021-03-16 00:00:00'], ['测试礼品H', '3', '40', '2021-03-16 00:00:00']] 
+2021-03-27 22:28:29,881 -main.py[20]-INFO -E:\Demo/report/report20210327222829.html 
+2021-03-27 22:28:29,962 -main.py[16]-INFO -<unittest.suite.TestSuite tests=[<unittest.suite.TestSuite tests=[<unittest.suite.TestSuite tests=[<paramunittest.TestCoupon_0 testMethod=test01>]>, <unittest.suite.TestSuite tests=[<paramunittest.TestCoupon_1 testMethod=test01>]>]>]> 

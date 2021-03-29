@@ -1,0 +1,12 @@
+2021-03-28 23:36:31,955 -main.py[20]-INFO -E:\Demo/report/report20210328233631.html 
+2021-03-28 23:36:32,040 -main.py[16]-INFO -<unittest.suite.TestSuite tests=[<unittest.suite.TestSuite tests=[<unittest.suite.TestSuite tests=[<paramunittest.TestCoupon_0 testMethod=test01>]>, <unittest.suite.TestSuite tests=[<paramunittest.TestCoupon_1 testMethod=test01>]>]>]> 
+2021-03-28 23:52:05,273 -main.py[20]-INFO -E:\Demo/report/report20210328235205.html 
+2021-03-28 23:52:05,358 -main.py[16]-INFO -<unittest.suite.TestSuite tests=[<unittest.suite.TestSuite tests=[<unittest.suite.TestSuite tests=[<paramunittest.TestCoupon_0 testMethod=test01>]>, <unittest.suite.TestSuite tests=[<paramunittest.TestCoupon_1 testMethod=test01>]>]>]> 
+2021-03-28 23:53:50,478 -main.py[20]-INFO -E:\Demo/report/report20210328235350.html 
+2021-03-28 23:53:50,560 -main.py[16]-INFO -<unittest.suite.TestSuite tests=[<unittest.suite.TestSuite tests=[<unittest.suite.TestSuite tests=[<paramunittest.TestCoupon_0 testMethod=test01>]>, <unittest.suite.TestSuite tests=[<paramunittest.TestCoupon_1 testMethod=test01>]>]>]> 
+2021-03-29 00:14:35,090 -main.py[20]-INFO -E:\Demo/report/report20210329001435.html 
+2021-03-29 00:14:35,174 -main.py[16]-INFO -<unittest.suite.TestSuite tests=[<unittest.suite.TestSuite tests=[<unittest.suite.TestSuite tests=[<paramunittest.TestCoupon_0 testMethod=test01>]>, <unittest.suite.TestSuite tests=[<paramunittest.TestCoupon_1 testMethod=test01>]>]>]> 
+2021-03-29 00:30:16,571 -main.py[20]-INFO -E:\Demo/report/report20210329003016.html 
+2021-03-29 00:30:16,713 -main.py[16]-INFO -<unittest.suite.TestSuite tests=[<unittest.suite.TestSuite tests=[<unittest.suite.TestSuite tests=[<paramunittest.TestCoupon_0 testMethod=test01>]>, <unittest.suite.TestSuite tests=[<paramunittest.TestCoupon_1 testMethod=test01>]>]>]> 
+2021-03-29 09:57:56,488 -main.py[20]-INFO -C:\Users\Administrator\PycharmProjects\Demo/report/report20210329095756.html 
+2021-03-29 09:57:57,294 -main.py[16]-INFO -<unittest.suite.TestSuite tests=[<unittest.suite.TestSuite tests=[<unittest.suite.TestSuite tests=[<paramunittest.TestCoupon_0 testMethod=test01>]>, <unittest.suite.TestSuite tests=[<paramunittest.TestCoupon_1 testMethod=test01>]>]>]> 
